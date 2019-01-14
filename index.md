@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Home
-landing-title: 'Hi, my name is Forty'
+title: Accueil
+landing-title: 'Bienvenue sur le site du collectif Accolab'
 description: null
 image: null
 author: null

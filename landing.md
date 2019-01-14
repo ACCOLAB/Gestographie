@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Au coin du feu
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Installation qui retrace <br />les gestes de manipulation du feu'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
