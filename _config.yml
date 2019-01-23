@@ -1,8 +1,8 @@
 # site settings
-title: Collectif
-subtitle: Acccolab
+title: Gestographie
+subtitle: Gestographie
 email: contact.accolab@gmail.com
-description: En direct<br /> du 6e étage.
+description: Pour un musée participatif de notre culture gestuelle
 baseurl: "/accolab-documentation" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -19,7 +19,7 @@ tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url:
+facebook_url: https://www.facebook.com/accolab
 github_url: https://github.com/ACCOLAB
 gitlab_url: 
 googleplus_url: 
