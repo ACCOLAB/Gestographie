@@ -2,7 +2,7 @@
 layout: page
 title: Mime-moi une fusée
 nav-menu: true
-image: assets/images/melothesie_0.jpg
+image: assets/images/mime_moi_une_fusee1.png
 ---
 
 <!-- Main -->

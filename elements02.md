@@ -2,7 +2,7 @@
 layout: page
 title: Gestomaton
 nav-menu: true
-image: assets/images/gestomaton7.jpg
+image: assets/images/gestomaton5.jpg
 ---
 
 <!-- Main -->
@@ -50,7 +50,7 @@ image: assets/images/gestomaton7.jpg
 <span class="image fit"><img src="assets/images/gestomaton4.jpg" alt="Interface du Gestomaton" /></span>
 <p>Une fois la photo prise, le participant est invité à sortir de la cabine pour prétendument récupérer sa photo. Pendant ce temps, le technicien récupère le fichier de l’enregistrement vidéo, qu’il place ensuite dans la mosaïque.</p>
 <p>Une fois sorti de la cabine, le participant est accueilli par un médiateur. Il lui explique la finalité de l’installation : le Gestomaton ne permet pas de prendre des photos d’identité, mais de révéler les gestes de ses utilisateurs. Le médiateur lui montre alors la mosaïque, qui affiche l’enregistrement vidéo de ses gestes, ainsi que ceux des précédents participants. C’est également un temps d’échange privilégié pendant lequel le médiateur peut répondre aux éventuelles questions du participant.</p>
-<span class="image fit"><img src="assets/images/gestomaton3.jpg" alt="Prises de vues faites avec le gestomaton" /></span>
+<span class="image fit"><img src="assets/images/gestomaton9.gif" alt="Prises de vues faites avec le gestomaton" /></span>
 
 <h2 id="content">Matériel</h2>
 <h3>Structure physique</h3>
