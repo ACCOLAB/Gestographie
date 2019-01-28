@@ -3,7 +3,7 @@ title: Au coin du feu
 layout: landing
 description: 'Installation qui retrace <br />les gestes de manipulation du feu'
 image: assets/images/pic07.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
