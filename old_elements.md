@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mime-moi une fusée
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
