@@ -2,7 +2,7 @@
 layout: page
 title: Gestomaton
 nav-menu: true
-image: assets/images/gestomaton7.jpg
+image: assets/images/gestomaton5.jpg
 ---
 
 <!-- Main -->
