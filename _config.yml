@@ -3,7 +3,7 @@ title: acco{lab}
 subtitle: Gestographie
 email: contact.accolab@gmail.com
 description: Pour un musée participatif de notre culture gestuelle
-baseurl: "https://accolab.github.io/documentation/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url:  '' # the base hostname & protocol for your site
 author:
 street_address: ici
