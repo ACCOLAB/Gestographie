@@ -66,7 +66,7 @@ image: assets/images/boite_a_gestes_3.jpg
 <p>Une fois les dimensions de la boîte choisies (500x380x500mm), il s'agit de générer les fichiers svg qui serviront à la découpe de la boîte. Pour cela, le merveilleux <a href="http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=projets:generateur_de_boites">générateur de boîte du Carrefour Numérique</a> nous sera utile. Enfin, une ouverture a été ajoutée sur un côté de la boîte, afin de pouvoir accéder plus facilement à l'intérieur du studio.</p>
 <span class="image fit"><img src="assets/images/boite_a_gestes_2.jpg" alt="Croquis de conception de la boîte à gestes" /></span>
 <p class="caption">Croquis de conception</p>
-<a href="http://valentinsocha.fr/museocamp/assets/plans/plan_boite.svg" class="button icon fa-download">Fichiers de découpe de la boîte</a>
+<a href="assets/files/plan_boite.svg" class="button icon fa-download">Fichiers de découpe de la boîte</a>
 <p>Afin de fixer la webcam, nous avons aussi fabriqué une petite boîte sur mesure. Cet élément est suspendu à l'intérieur du bloc à l'aide de quatre petits trous et de deux fils de fer, ce qui nous permettra de l'orienter par la suite.</p>
 <p>Toutes les pièces de la boîte à gestes ont été peintes en blanc afin de mieux refléter la lumière à intérieure. La lampe led est fixée avec du scotch double-face sur la face intérieure haute de la boîte et le rideau en feutre, fendu à deux endroits a été fixé avec de la glue.</p>
 <span class="image fit"><img src="assets/images/boite_a_gestes_4.jpg" alt="Fabrication et premier test de la boite à gestes au fablab du Carrefour Numérique" /></span>

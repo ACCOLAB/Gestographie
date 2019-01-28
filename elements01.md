@@ -63,7 +63,7 @@ image: assets/images/melothesie_0.jpg
 <p>Pour la structure, nous avons utilisé des tasseaux métaliques dédiés au montage de ce type de structure. Les tulles noirs ont été cousu directement sur la structure, pour plus de solidité.</p>
 <p>Pour ce qui est de la vidéoprojection, un programme que nous avons réalisé sur le logiciel Processing permet de synchronisé les vidéoprojections avec les mouvements de l'utilisateur. Lorsque l'araignée ou la mère tournent, le ciel tourne. Un texte s'affiche sur l'ostensor pour expliquer la nature des différentes parties.</p>
 <p>Enfin, la caméra Kinect est reliée à un second programme Processing qui permet de détecter les mouvements des mains au-dessus de l'astrolabe. Des étoiles générées par le logiciel suivront les mouvements des mains de l'utilisateur. Car tenir l'astrolabe, c'est un peu avoir le ciel étoilé entre ses mains !</p>
-<a href="#" class="button icon fa-download">Image projetée</a>
+<a href="assets/files/ciel.png" class="button icon fa-download">Image projetée</a>
 <p>Les images ont été produites par nos soins, comme la voute que vous pouvez téléchargé ci-dessus.</p>
 
 <h2 id="test">Test public</h2>

@@ -83,14 +83,14 @@ image: assets/images/gestomaton5.jpg
 <h3>Interface</h3>
 <p>Le participant interagit donc par le biais d’un écran d’ordinateur et d’un clavier. La prise de vue est gérée grâce à une webcam.</p>
 <p>L’ensemble permet de contrôler un programme développé en Java grâce au logiciel Processing. Ce programme autonome permet de contrôler l’interaction au clavier, l’affichage du retour webcam, le compte à rebours avant la prise de vue, la prise de vue et le déclenchement des deux signaux sonores.</p>
-<a href="#" class="button icon fa-download">Code source de l'interface</a>
+<a href="https://github.com/ACCOLAB/Gestographie/tree/master/Gestomaton%20Test01/gestomaton_interface" class="button icon fa-download">Code source de l'interface</a>
 <h3>Captation des gestes</h3>
 <p>Le technicien gère la captation des gestes du participant grâce à un ordinateur et une webcam déportée.</p>
 <p>Sous Mac, la captation est effectuée grâce au logiciel QuickTime Player. Le technicien lance l’enregistrement via le menu Fichier > Nouvel enregistrement vidéo et sélectionne la webcam appropriée. Une fois l’enregistrement terminée, il exporte la vidéo dans un répertoire dédié. La nomenclature des fichiers doit suivre le modèle suivant : 01.mp4, 02.mp4, 03.mp4, ect.</p>
 <h3>Mosaïque</h3>
 <p>L’ensemble des gestes des visiteurs est exposé dans une mosaïque. Cette mosaïque est affichée à l’aide moniteur externe, disposé à l’extérieur de la cabine.</p>
 <p>Cette mosaïque consiste en un fichier HTML, qui affiche les différentes vidéos. Les liens vers les différentes vidéos ont préalablement été rentrées dans le fichier : au fil des exports dans le répertoire dédié, les vidéos s’affichent alors dans la mosaïque.</p>
-<a href="#" class="button icon fa-download">Code source de la mosaïque</a>
+<a href="https://github.com/ACCOLAB/Gestographie/tree/master/Gestomaton%20Test01/gestomaton_mosaique" class="button icon fa-download">Code source de la mosaïque</a>
 
 <h2 id="experimentation">Expérimention</h2>
 <p>Cette installation a fait l’objet d’un test public le 10 décembre 2017 dans le Living Lab du Carrefour Numérique (Cité des Sciences et de l’Industrie).<p>
