@@ -1,4 +1,3 @@
-## About this website
 This website is about the work of the Accolab collective during their residence
 at Cité des sciences et de l'Industrie in Paris.
 
@@ -14,14 +13,6 @@ Forty by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
 
 	Other:
 		jQuery (jquery.com)
