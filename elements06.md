@@ -39,13 +39,10 @@ image: assets/images/feu1.jpg
 <p>Les visiteurs se trouvent devant une cheminée. Dans l’âtre se trouve l’hologramme d’un feu éteint, dont l’éclairage varie comme s’il était en veille. Devant l’âtre se situe deux objets reliés à la cheminée, un briquet et une boîte d’allumette.</p>
 <p>Assis sur une banquette devant le feu, le visiteur peut choisir soit de déclencher le feu par un des deux objets en reproduisant des gestes quotidiens : activer le briquet ou craquer une allumette. Le feu s’allume alors et raconte l’histoire des gestes liés à l’évolution technique de l’objet choisi : celle du feu à percussion pour le briquet et celle du feu par friction pour l’allumette.</p>
 
-<<<<<<< HEAD
 <span class="image fit"><img src="assets/images/feu1.jpg" alt="Photo du dispositif" /></span>
 
 <h2 id="content">Fabrication</h2>
-=======
 <h2 id="fabrication">Fabrication</h2>
->>>>>>> 12066a2e19de75f2ee2ccf17cea9ae1f2811d8cd
 <h3>La cheminée</h3>
 <p>La cheminée est constituée d’une cage en tasseaux de bois, fermée sur trois côtés par des revêtements en médium très fins qui la dépasse en hauteur. Au-dessus, pour fermer la boîte, se trouve l’écran d’ordinateur retourné, ses rebords tenus par les bords de la cage, et la vitre de l’écran dirigée vers le sol. Pour finir, une plaque de Plexiglas est posée en diagonal à l’intérieur de la boîte.</p>
 <h3>La boîte d’allumette</h3>
