@@ -6,6 +6,9 @@ To learn more : http://www.cite-sciences.fr/fr/au-programme/lieux-ressources/car
 
 ### Credits
 
+
+[Jekyll version by Andrew Banchich](https://andrewbanchich.github.io/forty-jekyll-theme/)
+
 Original README from HTML5 UP:
 
 ```
@@ -22,5 +25,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 		Respond.js (j.mp/respondjs)
 		Skel (skel.io)
 ```
+
+
 
 Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
