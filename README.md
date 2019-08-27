@@ -1,7 +1,5 @@
-This website is about the work of the Accolab collective during their residence
-at Cité des sciences et de l'Industrie in Paris.
-
-To learn more : http://www.cite-sciences.fr/fr/au-programme/lieux-ressources/carrefour-numerique2/living-lab/residences-museocamp/gestographie/
+### This website is about the work of the Accolab collective during their residence at Cité des sciences et de l'Industrie in Paris.
+[To learn more](http://www.cite-sciences.fr/fr/au-programme/lieux-ressources/carrefour-numerique2/living-lab/residences-museocamp/gestographie/)
 
 
 ### Credits
