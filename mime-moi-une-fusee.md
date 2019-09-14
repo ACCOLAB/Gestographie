@@ -3,6 +3,7 @@ layout: page
 title: Mime-moi une fusée
 nav-menu: true
 image: assets/images/mime_moi_une_fusee1.png
+permalink: mime-moi-une-fusee
 ---
 
 <!-- Main -->

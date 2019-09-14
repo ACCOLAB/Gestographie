@@ -3,6 +3,7 @@ layout: page
 title: Gestomaton
 nav-menu: true
 image: assets/images/gestomaton5.jpg
+permalink: gestomaton
 ---
 
 <!-- Main -->

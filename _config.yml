@@ -6,12 +6,12 @@ description: Pour un musée participatif de notre culture gestuelle
 baseurl: "gestographie/" # the subpath of your site, e.g. /blog
 url: 'https://accolab.github.io/' # the base hostname & protocol for your site
 author:
-street_address: ici
+street_address:
 city: Paris
 state: Ile-de-France
 zip_code: 75
 country: France
-phone: (716) 555-5555
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

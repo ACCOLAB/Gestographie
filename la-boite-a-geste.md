@@ -3,6 +3,7 @@ layout: page
 title: La boîte à gestes
 nav-menu: true
 image: assets/images/boite_a_gestes_3.jpg
+permalink: la-boite-a-geste
 ---
 
 <!-- Main -->

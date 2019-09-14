@@ -3,6 +3,7 @@ layout: page
 title: L'objet comme instrument
 nav-menu: true
 image: assets/images/objet_comme_instru1.jpg
+permalink: l-objet-comme-instrument
 ---
 
 <!-- Main -->

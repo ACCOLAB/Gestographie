@@ -3,6 +3,7 @@ layout: page
 title: Mélothésie
 nav-menu: true
 image: assets/images/melothesie_0.jpg
+permalink: melothesie
 ---
 
 <!-- Main -->

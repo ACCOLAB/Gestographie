@@ -3,6 +3,7 @@ layout: page
 title: Au coin du feu
 nav-menu: true
 image: assets/images/feu1.jpg
+permalink: au-coin-du-feu
 ---
 
 <!-- Main -->
