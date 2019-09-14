@@ -41,6 +41,7 @@ image: assets/images/feu1.jpg
 
 <span class="image fit"><img src="assets/images/feu1.jpg" alt="Photo du dispositif" /></span>
 
+<h2 id="content">Fabrication</h2>
 <h2 id="fabrication">Fabrication</h2>
 <h3>La cheminée</h3>
 <p>La cheminée est constituée d’une cage en tasseaux de bois, fermée sur trois côtés par des revêtements en médium très fins qui la dépasse en hauteur. Au-dessus, pour fermer la boîte, se trouve l’écran d’ordinateur retourné, ses rebords tenus par les bords de la cage, et la vitre de l’écran dirigée vers le sol. Pour finir, une plaque de Plexiglas est posée en diagonal à l’intérieur de la boîte.</p>
