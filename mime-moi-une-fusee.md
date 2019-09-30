@@ -11,21 +11,21 @@ permalink: mime-moi-une-fusee
 
 <!-- One -->
 <section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>Mime-moi une fusée</h1>
-		</header>
-		<p>Mime-moi une fusée est une installation dans laquelle le participant est invité à mimer les mots qui lui sont suggérés. Un dispositif de captation permet d’enregistrer puis de sauvegarder ces gestes dans une base de données.</p>
-		<ol>
-			<li><a href="#objectifs">Objectifs</a></li>
-			<li><a href="#principe">Principe</a></li>
-			<li><a href="#dispositif">Dispositif</a></li>
-			<li><a href="#scenario">Scenario</a></li>
-			<li><a href="#materiel">Matériel</a></li>
-			<li><a href="#fabrication">Fabrication</a></li>
-			<li><a href="#experimentation">Experimentation</a></li>
-			<li><a href="#perspectives">Perspectives</a></li>
-		</ol>
+    <div class="inner">
+        <header class="major">
+            <h1>Mime-moi une fusée</h1>
+        </header>
+        <p>Mime-moi une fusée est une installation dans laquelle le participant est invité à mimer les mots qui lui sont suggérés. Un dispositif de captation permet d’enregistrer puis de sauvegarder ces gestes dans une base de données.</p>
+        <ol>
+            <li><a href="#objectifs">Objectifs</a></li>
+            <li><a href="#principe">Principe</a></li>
+            <li><a href="#dispositif">Dispositif</a></li>
+            <li><a href="#scenario">Scenario</a></li>
+            <li><a href="#materiel">Matériel</a></li>
+            <li><a href="#fabrication">Fabrication</a></li>
+            <li><a href="#experimentation">Experimentation</a></li>
+            <li><a href="#perspectives">Perspectives</a></li>
+        </ol>
 
 <!-- Content -->
 <h2 id="objectifs">Objectifs</h2>
@@ -50,18 +50,18 @@ permalink: mime-moi-une-fusee
 <h2 id="materiel">Matériel</h2>
 <h3>Structure physique</h3>
 <ul>
-	<li>une petite table</li>
+    <li>une petite table</li>
 </ul>
 <h3>Hardware</h3>
 <ul>
-	<li>un ordinateur portable</li>
-	<li>une caméra (webcam, camescope ou appareil photo)</li>
-	<li>un trépied</li>
+    <li>un ordinateur portable</li>
+    <li>une caméra (webcam, camescope ou appareil photo)</li>
+    <li>un trépied</li>
 </ul>
 <h3>Software</h3>
 <ul>
-	<li>un logiciel de montage</li>
-	<li>VLC</li>
+    <li>un logiciel de montage</li>
+    <li>VLC</li>
 </ul>
 <span class="image fit"><img src="assets/images/mime_moi_une_fusee.jpg" alt="Mise en pratique du dispositif" /></span>
 
