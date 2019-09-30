@@ -4,7 +4,7 @@ subtitle: Gestographie
 email: contact.accolab@gmail.com
 description: Pour un musée participatif de notre culture gestuelle
 baseurl: "gestographie" # the subpath of your site, e.g. /blog
-url: 'https://accolab.github.io/' # the base hostname & protocol for your site
+url: 'https://accolab.github.io' # the base hostname & protocol for your site
 author:
 street_address:
 city: Paris
